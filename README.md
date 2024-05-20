@@ -1,4 +1,4 @@
-﻿## Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)!
+## Music Linker: Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)!
  
 Has this ever happened to you? 
 
