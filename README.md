@@ -6,7 +6,7 @@ Has this ever happened to you?
 
 (The first thing has never happened to me I was just imagining what it would be like if someone asked me, haha if you wanna send me a Spotify playlist you can be the first pplease)
 
-## Steal all your friends music easily with a single copy-paste! Connect your cross-platform music together, with the click of a button(s)! 
+## Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)! 
 
 Uses RAG with GPT-4 ($0.004 per song basically) to fix Youtube "junk" names and get album names (for Jellyfin file system). (For example: Kylie Minogue - Can't Get You Out Of My Head (Official Video) -> Kylie Minogue - Fever - Can't Get You Out Of My Head) 
 Uses Spotipy search as the service to augment GPT-4 responses.
