@@ -34,3 +34,5 @@ Jellyfin file structure:
 
 Once audio is downloaded by proper source and sorted into the Jellyfin structure, the goal is to try KMeans, where the cluster amount is how many playlists we want. My goal is to use similar heuristics to https://everynoise.com/, we'll see how well that goes.
 
+*Note, I spent too much time (1 hour) on the processing animation, so I'm NOT making a GUI. CLI tool forever. 
+
