@@ -59,7 +59,6 @@ class Loading:
         console.print(f"{self.finish}")
 
 if __name__ == "__main__":
-
     loader = Loading().start()
     for i in range(20):
         sleep(0.25)

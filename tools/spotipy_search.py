@@ -22,8 +22,8 @@ def search_res(track_name):
     for track in tracks:
         track_name = track['name']
         artists = ', '.join([artist['name'] for artist in track['artists']])
-        #album = track['album']['name']
-        query_list += f'{artists} - {track_name}\n'
+        album = track['album']['name']
+        query_list += f'{artists} - {album} - {track_name}\n'
     return query_list
 
 
