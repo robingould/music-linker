@@ -8,7 +8,7 @@ Has this ever happened to you?
 
 ## Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)! 
 
-Uses RAG with GPT-4 ($0.004 per song basically) to fix Youtube "junk" names and get album names (for Jellyfin file system). 
+Uses RAG with GPT-4 (~$0.003 per song) to fix Youtube "junk" names and get album names (for Jellyfin file system). 
 
 For example: Kylie Minogue - Can't Get You Out Of My Head (Official Video) -> Kylie Minogue - Fever - Can't Get You Out Of My Head
 
