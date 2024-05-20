@@ -9,7 +9,7 @@ Steal all your friends music easily with a single copy-paste! Connect all of you
 Uses RAG with GPT-4 ($0.004 per song basically) to fix Youtube "junk" names and get album names (for Jellyfin file system). (For example: Kylie Minogue - Can't Get You Out Of My Head (Official Video) -> Kylie Minogue - Fever - Can't Get You Out Of My Head) 
 Uses Spotipy search as the service to augment GPT-4 responses.
 
-
+```
 Jellyfin file structure:
     Music
     ├── Some Artist
@@ -26,3 +26,4 @@ Jellyfin file structure:
         ├── Like To.mp3
         ├── Name Your.mp3
         └── Music Files.mp3
+```
