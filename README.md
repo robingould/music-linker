@@ -30,3 +30,7 @@ Jellyfin file structure:
         ├── Name Your.mp3
         └── Music Files.mp3
 ```
+
+
+Once audio is downloaded by proper source and sorted into the Jellyfin structure, the goal is to try KMeans, where the cluster amount is how many playlists we want. My goal is to use similar heuristics to https://everynoise.com/, we'll see how well that goes.
+
