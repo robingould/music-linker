@@ -1,8 +1,9 @@
+venv
 .env
-.env.example
 .env.local
 .env.staging
 .cache
 *.pyc
 __pycache__/
 output/
+client_secret_*

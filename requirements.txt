@@ -1,0 +1,7 @@
+spotipy
+python-dotenv
+rich
+pytube
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
