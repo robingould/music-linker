@@ -1,6 +1,7 @@
 ## Music Linker: Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)!
 
 ![Spofity Example Gif](https://github.com/robingould/music-linker/blob/main/spotify.gif)
+Example usage for spotify conversion
  
 Has this ever happened to you? 
 
