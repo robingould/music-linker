@@ -1,4 +1,6 @@
 ## Music Linker: Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)!
+
+![Spofity Example Gif](https://github.com/robingould/music-linker/blob/main/spotify.gif)
  
 Has this ever happened to you? 
 
@@ -30,8 +32,6 @@ Jellyfin file structure:
         ├── Name Your.mp3
         └── Music Files.mp3
 ```
-![Spofity Example Gif)(spotify.gif)
-
 
 Once audio is downloaded by proper source and sorted into the Jellyfin structure, the goal is to try KMeans, where the cluster amount is how many playlists we want. My goal is to use similar heuristics to https://everynoise.com/, we'll see how well that goes.
 
