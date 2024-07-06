@@ -3,6 +3,7 @@
 ![Spofity Example Gif](https://github.com/robingould/music-linker/blob/main/spotify.gif)
 
 Example usage for spotify conversion
+
 Cleanly link and aggregate all music from soundcloud, spotify, youtube together on jellyfin automatically
 
 Has this ever happened to you? 
