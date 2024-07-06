@@ -1,5 +1,6 @@
 spotipy
 python-dotenv
+soundcloud-v2
 rich
 pytube
 google-api-python-client
