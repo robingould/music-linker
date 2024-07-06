@@ -1,5 +1,11 @@
 ## Music Linker: Steal all your friends music with a single copy-paste! Connect all of your cross-platform music together, with the click of a button(s)!
- 
+
+![Spofity Example Gif](https://github.com/robingould/music-linker/blob/main/spotify.gif)
+
+Example usage for spotify conversion
+
+Cleanly link and aggregate all music from soundcloud, spotify, youtube together on jellyfin automatically
+
 Has this ever happened to you? 
 
 "Oh no! My new friend just sent me a Spotify playlist but I don't even have Spotify premium!! Damn... that sucks... If ONLY there was an easy way to copy and paste that link and get the music sorted into playlists by similarity on my self-hosted Jellyfin server in under 15 mins, also I have seperate Spotify, Youtube, Soundcloud and downloaded playlists, it really sucks that they're all seperate and I can only listen to one at a time"
@@ -30,7 +36,6 @@ Jellyfin file structure:
         ├── Name Your.mp3
         └── Music Files.mp3
 ```
-
 
 Once audio is downloaded by proper source and sorted into the Jellyfin structure, the goal is to try KMeans, where the cluster amount is how many playlists we want. My goal is to use similar heuristics to https://everynoise.com/, we'll see how well that goes.
 
